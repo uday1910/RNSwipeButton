@@ -3,8 +3,8 @@
 
 <hr>
 <div style="color:darkcyan; font-size: 15px;">
-    <p>npm install rn-swipe-button --save</p>
-    <p>import SwipeButton from 'rn-swipe-button';</p>
+    <p>npm install rn-swipe-unlock-button --save</p>
+    <p>import SwipeButton from 'rn-swipe-unlock-button';</p>
     const renderSwipeButton = () => (&lt;SwipeButton /&gt;) 
 </div>
 <hr>
