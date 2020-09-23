@@ -7,7 +7,7 @@ const Styles = StyleSheet.create({
   container: {
     alignItems: 'flex-end',
     alignSelf: 'flex-start',
-    borderRadius: maxContainerHeight / 2,
+    borderRadius: maxContainerHeight / 10,
     borderRightWidth: 0,
     borderWidth,
     margin,
@@ -15,14 +15,14 @@ const Styles = StyleSheet.create({
   containerRTL: {
     alignItems: 'flex-start',
     alignSelf: 'flex-end',
-    borderRadius: maxContainerHeight / 2,
+    borderRadius: maxContainerHeight / 10,
     borderLeftWidth: 0,
     borderWidth,
     margin,
   },
   icon: {
     alignItems: 'center',
-    borderRadius: maxContainerHeight / 2,
+    borderRadius: maxContainerHeight / 10,
     borderWidth: 2,
     justifyContent: 'center',
     marginVertical: -borderWidth,
